@@ -1,17 +1,80 @@
-= Title Slide
+= Why Asciidoc?
+:backend: revealjs
 
-== Slide One
+== Agenda
 
-* Foo
-* Bar
-* World
+1. What is Asciidoc?
+2. When to use it?
+3. How to use it?
 
-== Slide Two
+== What is Asciidoc?
 
-A Great Story
+A markup language
 
-[.notes]
---
-* tell anecdote
-* make a point
---
+=== What is a markup language?
+
+* Computer language
+* Tags to define elements
+
+=== Some examples
+
+* HTML (Web programming)
+* Markdown (Documentation, web)
+* Asciidoctor (Documentation, web)
+* LaTeX (Documentation)
+
+image::RecipeBook_XML_Example.png[width=40%]
+
+== When to use Asciidoc?
+
+* Pros
+* Cons
+* Comparison
+
+=== Pros
+
+* Syncronizable code blocks
+* Easy layout
+* Easy conversion to pdf or html
+* Open source
+
+=== Cons
+
+* Steep learning curve.
+* Programming knowledge (or time) required.
+
+=== Comparison
+
+* LaTeX for thesis and research.
+* Markdown for easy web design or documentation.
+* Asciidoctor for complex and technical documentation.
+
+== How to use Asciidoc?
+
+=== !
+
+A lot of research: asciidoctor.org
+
+image::asciidoctor.png[width=60%]
+
+=== !
+
+A good text editor or IDE and...
+
+image::vscode.png[width=60%]
+
+=== !
+
+Practice
+
+== So... why Asciidoc again?
+
+=== !
+
+Hard to master, but
+
+=== !
+
+It is the most powerful tool to write technical documentation.
+
+== Thank you

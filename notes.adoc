@@ -1,0 +1,26 @@
+= Notes
+
+I want Melissa to know about Asciidoc and when to use it, even compare it with other markup languages.
+
+I want Melissa to know what a markup language is.
+
+== Content
+
+* What is Asciidoc
+** What is a markup language
+* When to use asciidoc (other languages)
+** Pros (source control)
+** Cons
+* How to use Asciidoc
+
+== Script
+
+Hello Melissa! Today I'm going to try to ask the question: Why Asciidoc?
+
+And I understand Simon Sinek's "Start with why" message, but today we are going ask ourselves three questions:
+
+1. What is Asciidoc?
+2. When to use it?
+3. How to use it?
+
+Now let's go with 
