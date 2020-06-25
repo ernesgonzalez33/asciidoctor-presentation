@@ -34,9 +34,9 @@ image::RecipeBook_XML_Example.png[width=40%]
 === Pros
 
 * Syncronizable code blocks
-* Easy layout
 * Easy conversion to pdf or html
 * Open source
+* Version control
 
 === Cons
 
